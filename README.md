@@ -3,7 +3,7 @@
 
 - 🖥️  Estudante de Análise e Desenvolvimento de Sistemas (2º Termo).
 
-- 🌱 Atualmente estudando PHP/Banco de dados e desenvolvimento WEB.
+- 🌱 Atualmente estudando Programação orientada a objetos, desenvolvimento WEB e Banco de Dados.
 
 <br>
 
