@@ -1,9 +1,9 @@
-## Bom dia! Boa tarde! Boa noite! Bem-vindo ao meu perfil. Me chamo Erik!
+## Olá Bem-vindo ao meu perfil. Me chamo Erik!
 <br>
 
-- 🖥️  Estudante de Análise e Desenvolvimento de Sistemas
+- 🖥️  Estudante de Análise e Desenvolvimento de Sistemas (2º Termo).
 
-- 🌱 Atualmente estudando Python 
+- 🌱 Atualmente estudando PHP/Banco de dados e desenvolvimento WEB.
 
 <br>
 
