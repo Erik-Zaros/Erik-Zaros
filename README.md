@@ -1,9 +1,9 @@
 ## Olá Bem-vindo ao meu perfil. Me chamo Erik!
 <br>
 
-- 🖥️  Estudante de Análise e Desenvolvimento de Sistemas (2º Termo).
+- 🖥️  Estudante de Análise e Desenvolvimento de Sistemas (3º Semestre).
 
-- 🌱 Atualmente estudando Programação orientada a objetos, desenvolvimento WEB e Banco de Dados.
+- 🌱 Atualmente estudando Tecnologias Frontend, Plataforma de desenvolvimento de Software e Estrutura de Dados.
 
 <br>
 
