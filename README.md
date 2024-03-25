@@ -28,6 +28,7 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Ferramentas</h1>
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   </div>
   <br>
   <div>
