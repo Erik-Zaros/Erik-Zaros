@@ -1,5 +1,4 @@
 ## Olá Bem-vindo ao meu perfil. Me chamo Erik!
-<br>
 
 - 🖥️  Estudante de Análise e Desenvolvimento de Sistemas (3º Semestre).
 
