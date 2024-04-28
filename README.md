@@ -5,8 +5,6 @@
 
 - 🌱 Atualmente estudando aprendendo VUE.JS, Árvore em Python e CRUD em C#.
 
-- Contatos:
-
 - E-mail: erilzaros942@gmail.com
 
 <br>
