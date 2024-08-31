@@ -4,6 +4,6 @@
 
 - 🌱 Atualmente, estou estudando Arquitetura de Software, Desenvolvimento Full-Stack, Design Patterns, Clean Code, Teste e Qualidade de Software.
   
-- E-mail: erilzaros942@gmail.com
+- E-mail: erikzaros942@gmail.com
 
 <br>
