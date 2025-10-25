@@ -26,6 +26,6 @@
 
 ### 📌 Projeto em Destaque
 
-- [🔧 Projeto OS - Sistema de Ordens de Serviço](https://github.com/Erik-Zaros/ProjetoOS)
+- [🔧 ServiceCore - Sistema de Ordens de Serviço](https://github.com/Erik-Zaros/ServiceCore)
 
 ---
