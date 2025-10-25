@@ -24,6 +24,12 @@
 
 ---
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-Zaros&show_icons=true&theme=tokyonight" />
+</div>
+
+---
+
 ### 📌 Projeto em Destaque
 
 - [🔧 ServiceCore - Sistema de Ordens de Serviço](https://github.com/Erik-Zaros/ServiceCore)
