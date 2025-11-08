@@ -24,8 +24,20 @@
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-Zaros&show_icons=true&theme=tokyonight" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/erik-delanda-zaros-99152b253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <h3>Github Status</h3>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erik-Zaros&theme=tokyonight" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erik-Zaros&theme=tokyonight" width="340px" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erik-Zaros&theme=tokyonight" width="340px" />
+  </div>
 </div>
 
 ---
