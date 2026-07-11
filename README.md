@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu perfil! Me chamo Erik!
 
-🎓 Formado **Análise e Desenvolvimento de Sistemas** – 6º semestre
+🎓 Formado **Análise e Desenvolvimento de Sistemas**
 
 📚 Atualmente estudando **Service Repository Pattern**, e **DDD**
 
