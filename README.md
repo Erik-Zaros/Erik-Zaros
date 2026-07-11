@@ -1,12 +1,12 @@
 ## 👋 Bem-vindo ao meu perfil! Me chamo Erik!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 6º semestre
+🎓 Formado **Análise e Desenvolvimento de Sistemas** – 6º semestre
 
-📚 Atualmente estudando **REDES DE COMPUTADORES**, **ARQUITETURA DE COMPUTADORES E IOT** e **SISTEMAS OPERACIONAIS**
+📚 Atualmente estudando **Service Repository Pattern**, e **DDD**
 
 💻 Desenvolvedor com foco em desenvolvimento web **PHP**, **PostgreSQL**, **Vue.js**, **Quasar**, **jQuery**, **AJAX**
 
-📫 E-mail: erikzaros942@gmail.com  
+📫 E-mail: erikzaros942@gmail.com
 
 ---
 
